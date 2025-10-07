@@ -209,7 +209,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
-  Otherwise you'll still get prompted for username and password and get authentication error.
+  Otherwise you'll still get prompted for username and password and get authentication errors.
 </details>
 
 ## Submit your changes for review
